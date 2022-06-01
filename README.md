@@ -10,7 +10,7 @@ Github suggested these topics, so I'll use it:
 - 🤔 I’m looking for help with writing my own projects from ground. It's still a hard challenge for me to start and finish projects on my own, so help in the process is always wellcome!
 - 💬 Ask me about JavaSript, React and Frontend, these are the tools I use and know the most. But I can try to help you with Linux and Shell Scripting to, as with some other languages like Java, C and PHP, and some Electronics stuff :D
 - 😄 Pronouns: 🇺🇸 They/them; 🇧🇷 Ele/dele, Elu/delu
-- ⚡ Fun fact: I want to work with Biomedical Engineering in the future, and build some Cyberpunk like limbs 🧑‍🔬
+- ⚡ Fun fact: I like to play board-games in my free time, and pretend to code some of them in the future.
 
 #### Code shortcuts
 
