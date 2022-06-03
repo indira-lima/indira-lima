@@ -42,3 +42,12 @@ select yn in "Yes" "No"; do
 done
 ```
 
+- Linux usage utils
+```bash
+# see disk usage
+du -sh <file or directory>
+
+# real time system monitoring
+top
+
+```
