@@ -51,3 +51,7 @@ du -sh <file or directory>
 top
 
 ```
+
+- Hash for '1234' password (very userful for test users)
+
+    $2a$10$q/Sria0yz2a29aZKq1dn/ORDdjMTIVZ41jM4RKsIdcvtJ0UCNd8T
