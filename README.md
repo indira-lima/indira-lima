@@ -52,6 +52,6 @@ top
 
 ```
 
-- Hash for '1234' password (very userful for test users)
+- Bcrypt hash for '1234' password (very userful for test users)
 
-    $2a$10$q/Sria0yz2a29aZKq1dn/ORDdjMTIVZ41jM4RKsIdcvtJ0UCNd8T
+    $2a$12$nmxsXe5YxB84w5HgUyptE.66h8cu8lIe0ZIklTvmcv89ONRgJLDc2
