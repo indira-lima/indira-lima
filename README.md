@@ -54,4 +54,4 @@ top
 
 - Bcrypt hash for '1234' password (very userful for test users)
 
-    $2a$12$nmxsXe5YxB84w5HgUyptE.66h8cu8lIe0ZIklTvmcv89ONRgJLDc2
+    $2a$12$Jn6GUP9IxhsMNNSN5gLiPuOD4YeXP4jGjThLFw532PPqKSzXMl9UC
