@@ -2,6 +2,10 @@
  
 Wellcome to my personal page! I'm a trans non-binary person that spends lots of time either using my computer or playing boardgames with friends haha
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahan-schuster&theme=synthwave&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahan-schuster&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 There's nothing special here, I'll just add some shortcuts for my personal works and keep a updated resume of what I do in general. Thanks for reading!
 
 Github suggested these topics, so I'll use it:
