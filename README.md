@@ -2,7 +2,7 @@
  
 Wellcome to my personal page! I'm a trans non-binary person that spends lots of time either using my computer or playing boardgames with friends haha
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahan-schuster&theme=synthwave&show_icons=true&include_all_commits=true)
+[![autocomplete](https://codeium.com/badges/user/abjectly-allowed-mullet-81713/autocomplete)](https://codeium.com/profile/abjectly-allowed-mullet-81713)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahan-schuster&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
