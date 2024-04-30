@@ -14,7 +14,7 @@ Github suggested these topics, so I'll use it:
 - 🌱 I’m currently learning Shell Scripting and Linux Ricing. I use linux 95% of the time for years, but I'm still a regular user with just some basic knowledge, so I try to learn a little more everyday and, when there's something I always do in the terminal, I try to write simple scripts for it. Currently I (try to) use Bash, but I'm looking forward to learn more Python and write more complex scripts with less effort haha Checkout my [Linux Utils](https://github.com/Dahan-Schuster/linux-utils) and [dotfiles](https://github.com/Dahan-Schuster/dotfiles) repositories!
 - 🤔 I’m looking for help with writing my own projects from ground. It's still a hard challenge for me to start and finish projects on my own, so help in the process is always wellcome!
 - 💬 Ask me about JavaScript, React, Front-end and Linux Ricing, these are the things I know most. But I can try to help you with Python and Shell Scripting too, as with some other languages like Java, C and PHP, and some Electronics stuff :D
-- 😄 Pronouns: 🇺🇸 They/them; 🇧🇷 Ele/dele, Elu/delu
+- 😄 Pronouns: 🇺🇸 She/her; 🇧🇷 Ela/dela
 - ⚡ Fun fact: I like to play board-games in my free time, and pretend to code some of them in the future. We can play together in [Board Game Arena](https://boardgamearena.com)
 
 #### Code shortcuts
